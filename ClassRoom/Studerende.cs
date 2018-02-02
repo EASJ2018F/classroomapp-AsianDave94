@@ -20,7 +20,7 @@ namespace ClassRoom
         {
             get;set;
         }
-        public Studerende(string int int)
+        public Studerende(string Navn, int Fødselsmåned, int Fødselsdag)
         {
 
         }
