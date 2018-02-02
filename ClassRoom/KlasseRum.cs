@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace ClassRoom
 {
-    class KlasseRum
+   public class KlasseRum
     {
         public string KlasseNavn
         {
             get;set;
         }
-        List<Studerende> Klasseliste = new List<Studerende>;
+        List<Studerende> Klasseliste = new List<Studerende>();
         public DateTime SemesterStart
         {
             get;set;

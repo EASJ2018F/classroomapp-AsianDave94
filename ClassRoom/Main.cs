@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClassRoom
 {
-    class Main
+   public class Main
     {
+        List<Studerende> Klasse1 = new List<Studerende>();
         
     }
 }
